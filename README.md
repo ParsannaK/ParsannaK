@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParsannaK
-- I'm a student at the University of Michigan
-- 👀 I’m interested in software development
+- I'm a student at the *University of Michigan - Ann Arbor*
+- 👀 I’m interested in software development, machine learning, and full-stack development
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: prasanna.koirala302@gmail.com
 
